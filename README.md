@@ -1,17 +1,17 @@
-# Generador de Reportes Modulares
+=== REPORTE DE VENTAS ===
+Fecha de ejecución: 2025-12-11
+Registros procesados: 5
 
-Una utilidad de consola que genera reportes textuales de ventas/gastos con cálculos de totales, promedios y ranking por categoría.
+**Totales:**
 
-## 📋 Características
-- Normalización y validación de datos
-- Cálculo de total general y promedio
-- Agrupación por categoría con orden descendente
-- Formato de salida legible
-- Manejo de errores con mensajes claros
+- Total general: $ 880.000,00
+- Promedio por registro: $ 176.000,00
 
-## 🚀 Instalación y Ejecución
+**Por categoría (desc):**
 
-1. **Clonar/descargar el proyecto**
+1) tecnologia: $ 450.000,00
+2) alimentos: $ 280.000,00
+3) servicios: $ 150.000,00
 ```bash
 git clone <repo-url>
 cd mod-03-report
