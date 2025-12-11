@@ -1,0 +1,16 @@
+{
+  "name": "mod-03-report",
+  "version": "1.0.0",
+  "description": "Generador de Reportes Modulares",
+  "type": "module",
+  "scripts": {
+    "report": "node src/report.js",
+    "play": "node src/report.js"
+  },
+  "keywords": ["reportes", "ventas", "modular"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
